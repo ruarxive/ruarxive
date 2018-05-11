@@ -1,3 +1,2 @@
-# nationaldigitalarchive
-Russian national digital archive (ruarxive.org)
-Национальный цифровой архив России (ruarxive.org)
+# Национальный цифровой архив России / Russian national digital archive (ruarxive.org)
+Проект по цифровому сохранению знаний связанных с материалами на русском языке, созданным в России или с Россией связанных (ruarxive.org)
